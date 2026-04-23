@@ -50,7 +50,7 @@
         const s = i(68545);
         t.CHATTER_DEFS = [{
           tags: ["surrendering", "hostile"],
-          lines: ["Screw this, I give up.", "Goddamnit, this is hopeless.", "This is bloody hopeless.", "Who am I kidding, I'm done.", "Damn, this is getting too depressing.", "What's the point of fighting anymore?", "You've beaten me.", "Oh well.", "So be it.", "I'm defeated.", "Well, that's that.", "Give me a break...", "Fine, you win.", "Yeah, this is going nowhere."]
+          lines: ["Screw this, I'm Epstein.", "Goddamnit, rizzler.", "It it supposed to be red?.", "Who am I kidding, I'm Diddy.", "Damn, this is getting too depressing.", "What's the point of fighting anymore?", "You've beaten me.", "Oh well.", "So be it.", "I'm defeated.", "Well, that's that.", "Give me a break...", "Fine, you win.", "Yeah, this is going nowhere."]
         }, {
           tags: ["surrendering", "friendly"],
           lines: ["Well played!", "Congratulations!", "I concede.", "I acknowledge my defeat.", "Very impressive.", "Well done.", "I knew you could do it!"]
@@ -361,13 +361,13 @@
           value: !0
         }), t.updateChatterRules = t.CHATTER_DEFS = void 0, t.CHATTER_DEFS = [{
           tags: ["suffered major damage", "weaker", "angry reaction"],
-          lines: ["Wait what?! Not fair!", "NO! That's cheating!", "This is so not fair!", "This is a load of poppycock!", "I'm telling my mom!"]
+          lines: ["Its all over my screen!", "NO! That's cheating!", "This is so not sigma!", "This is a load of doddy blud!", "I'm telling Epstein!"]
         }, {
           tags: ["neutral", "stronger"],
-          lines: ["You are no match for the Goose!", "Hahahaha. Run!", "Hahaha, you think you stand a chance against me?", "Tremble before the mighty Goose!", "Run and hide, for Godfrey the Goose is nigh!"]
+          lines: ["You are no match for the Gooner!", "Hahahaha. Run!", "Hahaha, you think you stand a chance against me?", "Tremble before the mighty Goose!", "Run and hide, for Godfrey the Goose is nigh!"]
         }, {
           tags: ["neutral"],
-          lines: ["Tremble before the mighty Goose!", "Run and hide, for Godfrey the Goose is nigh!", "I'm Godfrey the Goose and you're about to lose!"]
+          lines: ["Tremble before the mighty Gooner!", "Run and hide, for Godfrey the Goose is nigh!", "I'm Godfrey the Goose and you're about to lose!"]
         }, {
           tags: ["hostile"],
           lines: ["You will rue the day you chose to cross the Goose!", "Once I learn to count, your days will be numbered!", "Just you wait!"]
@@ -51822,7 +51822,7 @@
             await new Promise((i => {
               this.show(t.UI.restartDialog, {
                 title: "From Ruler to Conqueror",
-                message: "Well done, this concludes the tutorial!\nFrom now on, it's just you and a sea of Islands ripe for conquest!\n\nBefore you continue, you can [b]adjust the difficulty level[/b] of your rivals. \nUnless you really enjoy suffering, I recommend you stick with [i]Normal[/i] for now.\nYou can change this setting at any time from the campaign menu!",
+                message: "Well done, this concludes the tutorial!\nFrom now on, it's just you and a sea of Islands ripe for Epstein!\n\nBefore you goon, you can [b]adjust the number[/b] of diddies. \nUnless you really enjoy suffering, I recommend you stick with [i]My dih is massive[/i] for now.\nYou can change this setting at any time when you goon!",
                 buttons: [{
                   text: n.DialogButtons.OK,
                   role: u.DialogButtonRole.PrimaryGreen
